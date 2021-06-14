@@ -23,7 +23,7 @@
                 </div>  
             </div>
 
-            <div className="header__middle"></div>
+            <div className="header__center"></div>
                 <div className="header__option">
                     <HomeIcon fontSize="large" />
                 </div>
