@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fb-clone/static/css/main.4b4ccbd2.chunk.css",
-    "main.js": "/fb-clone/static/js/main.bd5b427d.chunk.js",
-    "main.js.map": "/fb-clone/static/js/main.bd5b427d.chunk.js.map",
-    "runtime-main.js": "/fb-clone/static/js/runtime-main.84a6e807.js",
-    "runtime-main.js.map": "/fb-clone/static/js/runtime-main.84a6e807.js.map",
-    "static/js/2.64660bc6.chunk.js": "/fb-clone/static/js/2.64660bc6.chunk.js",
-    "static/js/2.64660bc6.chunk.js.map": "/fb-clone/static/js/2.64660bc6.chunk.js.map",
-    "static/js/3.ed66660e.chunk.js": "/fb-clone/static/js/3.ed66660e.chunk.js",
-    "static/js/3.ed66660e.chunk.js.map": "/fb-clone/static/js/3.ed66660e.chunk.js.map",
-    "index.html": "/fb-clone/index.html",
-    "static/css/main.4b4ccbd2.chunk.css.map": "/fb-clone/static/css/main.4b4ccbd2.chunk.css.map",
-    "static/js/2.64660bc6.chunk.js.LICENSE.txt": "/fb-clone/static/js/2.64660bc6.chunk.js.LICENSE.txt"
+    "main.css": "/larrychiem.github.io/fb-clone/static/css/main.4b4ccbd2.chunk.css",
+    "main.js": "/larrychiem.github.io/fb-clone/static/js/main.bd5b427d.chunk.js",
+    "main.js.map": "/larrychiem.github.io/fb-clone/static/js/main.bd5b427d.chunk.js.map",
+    "runtime-main.js": "/larrychiem.github.io/fb-clone/static/js/runtime-main.3c6b18ba.js",
+    "runtime-main.js.map": "/larrychiem.github.io/fb-clone/static/js/runtime-main.3c6b18ba.js.map",
+    "static/js/2.44b8d096.chunk.js": "/larrychiem.github.io/fb-clone/static/js/2.44b8d096.chunk.js",
+    "static/js/2.44b8d096.chunk.js.map": "/larrychiem.github.io/fb-clone/static/js/2.44b8d096.chunk.js.map",
+    "static/js/3.ed66660e.chunk.js": "/larrychiem.github.io/fb-clone/static/js/3.ed66660e.chunk.js",
+    "static/js/3.ed66660e.chunk.js.map": "/larrychiem.github.io/fb-clone/static/js/3.ed66660e.chunk.js.map",
+    "index.html": "/larrychiem.github.io/fb-clone/index.html",
+    "static/css/main.4b4ccbd2.chunk.css.map": "/larrychiem.github.io/fb-clone/static/css/main.4b4ccbd2.chunk.css.map",
+    "static/js/2.44b8d096.chunk.js.LICENSE.txt": "/larrychiem.github.io/fb-clone/static/js/2.44b8d096.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.84a6e807.js",
-    "static/js/2.64660bc6.chunk.js",
+    "static/js/runtime-main.3c6b18ba.js",
+    "static/js/2.44b8d096.chunk.js",
     "static/css/main.4b4ccbd2.chunk.css",
     "static/js/main.bd5b427d.chunk.js"
   ]
