@@ -46,8 +46,8 @@ function Header() {
 
             <div className="header__right">
                 <div className="header__info">
-                    <Avatar src={user.photoURL}/>
-                    <h4>{user.displayName}</h4>
+                    <Avatar src="https://avatars.githubusercontent.com/u/15273129?v=4"/>
+                    <h4>Larry Chiem</h4>
                 </div>
 
                 <IconButton>

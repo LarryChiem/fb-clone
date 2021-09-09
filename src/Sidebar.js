@@ -15,7 +15,7 @@ function Sidebar() {
 
     return (
     <div className="sidebar">
-        <SidebarRow src={user.photoURL} title={user.displayName} />
+        <SidebarRow src="https://avatars.githubusercontent.com/u/15273129?v=4" title="Larry Chiem" />
         <SidebarRow
           Icon={LocalHospitalIcon}
           title="COVID-19 Information Center"

@@ -12,18 +12,18 @@ function App() {
   return (
     // BEM naming convention
     <div className="app">
-      {!user ? (
+      {/* {!user ? (
         <Login />
       ) : (
-        <>
+        <> */}
           <Header /> 
           <div className="app_body">
             <Sidebar />
             <Feed />
             <Widgets />
           </div>
-        </>
-      )}
+        {/* </> */}
+      {/* // )} */}
     </div>
   );
 }
