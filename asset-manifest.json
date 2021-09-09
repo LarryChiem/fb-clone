@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fb-clone/static/css/main.1c4cfc4a.chunk.css",
-    "main.js": "/fb-clone/static/js/main.f6d9a0fa.chunk.js",
-    "main.js.map": "/fb-clone/static/js/main.f6d9a0fa.chunk.js.map",
+    "main.js": "/fb-clone/static/js/main.a516021e.chunk.js",
+    "main.js.map": "/fb-clone/static/js/main.a516021e.chunk.js.map",
     "runtime-main.js": "/fb-clone/static/js/runtime-main.c5d8592f.js",
     "runtime-main.js.map": "/fb-clone/static/js/runtime-main.c5d8592f.js.map",
     "static/js/2.42901804.chunk.js": "/fb-clone/static/js/2.42901804.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c5d8592f.js",
     "static/js/2.42901804.chunk.js",
     "static/css/main.1c4cfc4a.chunk.css",
-    "static/js/main.f6d9a0fa.chunk.js"
+    "static/js/main.a516021e.chunk.js"
   ]
 }
