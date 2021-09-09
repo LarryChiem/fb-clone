@@ -46,8 +46,8 @@ function Header() {
 
             <div className="header__right">
                 <div className="header__info">
-                    <Avatar src={user.photoURL}/>
-                    <h4>{user.displayName}</h4>
+                    <Avatar src=" https://scontent.fhio2-2.fna.fbcdn.net/v/t1.6435-1/p320x320/189668690_4521491961213242_829688004156073505_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=7206a8&_nc_ohc=Ys0_zRqE_1oAX9JCcvC&_nc_ht=scontent.fhio2-2.fna&oh=f4bf13367ab2b1b19867d4411d9b8a9d&oe=615BF513"/>
+                    <h4>Larry Chiem</h4>
                 </div>
 
                 <IconButton>
